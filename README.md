@@ -1,18 +1,34 @@
-Seja bem-vindo!! eu sou o Lorran Fontenele😁
 
-![LorranFont GitHub stats](https://github-readme-stats.vercel.app/api?username=LorranFont&show_icons=true&theme=highcontrast)
-
-### Tecnologias que atualmente estou estudando:
-
-<div  =  "diplay : inline_block">
-    <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">   
-    <img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/ > 
-    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/ >    
-    <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"alt="django" / >      
+<div align="center">
+<h2> Seja bem-vindo! eu sou o Lorran Fontenele 😁</h2>
 </div>
+</br>
+<div align="center">
+  <div align="center">
+  <a href="https://github.com/LorranFont">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=formandodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
+</br>
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorranFont&layout=compact&langs_count=7&theme=dark"/>
+</div>
+</div>
+</br>
+ <div>
+<div style="display: inline_block">
+    <br>
+    <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Formando-Python" height="40" width="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg">
+    <img align="center" alt="Formando-Django"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    
+    
+</div>
+ </div>
+</br>
 
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LorranFont/LorranFont/blob/output/github-contribution-grid-snake.svg)
 
 
