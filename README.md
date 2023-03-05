@@ -2,6 +2,13 @@
 <div align="center">
 <h2> Seja bem-vindo! eu sou o Lorran Fontenele 😁</h2>
 </div>
+
+<div align="center">
+  <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 </br>
 <div align="center">
   <div align="center">
@@ -27,6 +34,10 @@
 </div>
  </div>
 </br>
+
+![Snake animation](https://github.com/LorranFont/LorranFont/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
