@@ -29,6 +29,6 @@
 </br>
 
 
-![snake gif](https://github.com/LorranFont/LorranFont/blob/output/github-contribution-grid-snake.svg)
+
 
 
