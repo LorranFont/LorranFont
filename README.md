@@ -35,7 +35,7 @@
  </div>
 </br>
 
-![Snake animation](https://github.com/LorranFont/LorranFont/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
