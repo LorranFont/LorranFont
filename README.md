@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mim
 
-Olá! Eu sou *Vitor, um desenvolvedor focado em **back-end* e na criação de *APIs robustas. Adoro desafios técnicos e otimização de sistemas, sempre em busca de máxima eficiência e escalabilidade. A **curiosidade* é minha maior motivadora.
+Olá! Eu sou *Lorran, um desenvolvedor focado em **back-end* e na criação de *APIs robustas. Adoro desafios técnicos e otimização de sistemas, sempre em busca de máxima eficiência e escalabilidade. A **curiosidade* é minha maior motivadora.
 
 ---
 
