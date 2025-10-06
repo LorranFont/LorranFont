@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #2f74c0; font-family: 'Montserrat', sans-serif; font-weight: 700; font-size: 3rem;">Olá, Mundo! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/vitorpldev.png" alt="Foto" width="200" style="border-radius: 50%; border: 6px solid #2f74c0; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github.com/lorranFont.png" alt="Foto" width="200" style="border-radius: 50%; border: 6px solid #2f74c0; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
 </p>
 
 <div align="center">
