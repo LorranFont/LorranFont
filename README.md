@@ -98,13 +98,13 @@ No futuro, almejo compartilhar meu conhecimento ensinando programação a jovens
 ## 🌐 Vamos Conectar!
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px;">
-  <a href="https://www.linkedin.com/in/vitorpl07/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));" />
   </a>
-  <a href="https://dev.to/vitorpl" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" style="filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));" />
   </a>
-  <a href="https://www.instagram.com/vitorpl.dev/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));" />
   </a>
 </div>
