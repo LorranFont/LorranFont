@@ -5,16 +5,16 @@
 </p>
 
 <div align="center">
-  <p style="font-size: 1.25rem; font-weight: 600;">Front-end Developer | Full-stack Explorer | Criador</p>
+  <p style="font-size: 1.25rem; font-weight: 600;">Front-end Developer | Node.js Specialist | Criador</p>
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Olá! Eu sou **Lorran**, um desenvolvedor apaixonado por criar interfaces modernas e experiências de usuário fluidas. Meu foco principal é o **Front-end**, onde utilizo **React** e **Next.js** para construir aplicações performáticas, mas também possuo uma base sólida em **Back-end**, desenvolvendo APIs eficientes para sustentar o ecossistema das aplicações.
+Olá! Eu sou **Lorran**, um desenvolvedor focado em construir interfaces de alto impacto com **React** e **Next.js**. Embora meu foco atual seja o Front-end, possuo um domínio sólido em **Node.js**, o que me permite transitar com facilidade para o Back-end e construir APIs robustas, seguras e escaláveis.
 
-Acredito que um bom desenvolvedor deve entender o fluxo completo dos dados, do pixel no navegador ao registro no banco de dados.
+Adoro resolver problemas complexos e garantir que a comunicação entre o cliente e o servidor seja a mais eficiente possível.
 
 ---
 
@@ -22,12 +22,12 @@ Acredito que um bom desenvolvedor deve entender o fluxo completo dos dados, do p
 
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <div align="center">
-    <h4>🎨 Front-end</h4>
-    <p>React, Next.js, TypeScript, Tailwind CSS</p>
+    <h4>🎨 Front-end (Foco)</h4>
+    <p>Next.js, React, TypeScript, Tailwind CSS</p>
   </div>
   <div align="center">
-    <h4>⚙️ Back-end</h4>
-    <p>Bun.js, Elysia, Prisma, PostgreSQL</p>
+    <h4>⚙️ Back-end (Core)</h4>
+    <p>Node.js, TypeScript, Bun, Prisma, PostgreSQL</p>
   </div>
 </div>
 
@@ -35,9 +35,9 @@ Acredito que um bom desenvolvedor deve entender o fluxo completo dos dados, do p
 
 ## 💡 Minha Abordagem
 
-- 🖼️ **Interface & UX**: Foco em design responsivo, acessibilidade e performance visual.
-- 🏗️ **Arquitetura**: Gosto de organizar projetos de forma escalável, utilizando as melhores práticas de Server Components e Hooks.
-- 🔧 **Full-stack Mindset**: Minha experiência em Back-end me permite otimizar a comunicação entre cliente e servidor com facilidade.
+- ⚛️ **Modern Front-end**: Especialista em hooks, componentes reutilizáveis e otimização de renderização.
+- 🚀 **Robust Back-end**: Experiência em arquitetura de APIs usando Node.js, garantindo performance e tipagem rigorosa com TS.
+- 🔗 **Full-stack Integration**: Facilidade em integrar serviços, autenticação e bancos de dados SQL.
 
 ---
 
@@ -57,30 +57,35 @@ Acredito que um bom desenvolvedor deve entender o fluxo completo dos dados, do p
 
 ## ⚙ Tecnologias e Ferramentas
 
-### Stack Principal (Front-end)
+### Front-end Stack
 
 <div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
-  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="border-radius: 10px; background: #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+    <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="background: #fff; border-radius: 10px;" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+    <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />
   </a>
 </div>
 
-### Ecossistema & Back-end
+### Back-end & Tools
 
-<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-  <img src="https://bun.sh/logo.svg" width="45" height="45" alt="Bun" title="Bun.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma" title="Prisma ORM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="45" height="45" alt="Docker" title="Docker" />
+<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; margin: 20px 0;">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+  </a>
 </div>
 
 ---
@@ -88,10 +93,10 @@ Acredito que um bom desenvolvedor deve entender o fluxo completo dos dados, do p
 ## 🌐 Vamos Conectar!
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px;">
-  <a href="SEU_LINK_AQUI" target="_blank">
+  <a href="SEU_LINK_LINKEDIN" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="SEU_LINK_AQUI" target="_blank">
+  <a href="SEU_LINK_INSTAGRAM" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </div>
