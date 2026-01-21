@@ -1,18 +1,20 @@
-<h1 align="center" style="color: #2f74c0; font-family: 'Montserrat', sans-serif; font-weight: 700; font-size: 3rem;">Olá, Mundo! 👋</h1>
+<h1 align="center" style="color: #61dafb; font-family: 'Montserrat', sans-serif; font-weight: 700; font-size: 3rem;">Olá, Mundo! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/lorranFont.png" alt="Foto" width="200" style="border-radius: 50%; border: 6px solid #2f74c0; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github.com/lorranFont.png" alt="Foto" width="200" style="border-radius: 50%; border: 6px solid #61dafb; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
 </p>
 
 <div align="center">
-  <p style="font-size: 1.25rem; font-weight: 600;">Desenvolvedor | Criador | Aprendiz</p>
+  <p style="font-size: 1.25rem; font-weight: 600;">Front-end Developer | Full-stack Explorer | Criador</p>
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Olá! Eu sou *Lorran, um desenvolvedor focado em **back-end* e na criação de *APIs robustas. Adoro desafios técnicos e otimização de sistemas, sempre em busca de máxima eficiência e escalabilidade. A **curiosidade* é minha maior motivadora.
+Olá! Eu sou **Lorran**, um desenvolvedor apaixonado por criar interfaces modernas e experiências de usuário fluidas. Meu foco principal é o **Front-end**, onde utilizo **React** e **Next.js** para construir aplicações performáticas, mas também possuo uma base sólida em **Back-end**, desenvolvendo APIs eficientes para sustentar o ecossistema das aplicações.
+
+Acredito que um bom desenvolvedor deve entender o fluxo completo dos dados, do pixel no navegador ao registro no banco de dados.
 
 ---
 
@@ -20,12 +22,12 @@ Olá! Eu sou *Lorran, um desenvolvedor focado em **back-end* e na criação de *
 
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <div align="center">
-    <h4>💻 Back-end</h4>
-    <p>Bun.js, Typescript</p>
+    <h4>🎨 Front-end</h4>
+    <p>React, Next.js, TypeScript, Tailwind CSS</p>
   </div>
   <div align="center">
-    <h4>💾 Banco de Dados</h4>
-    <p>PostgreSQL, MySQL</p>
+    <h4>⚙️ Back-end</h4>
+    <p>Bun.js, Elysia, Prisma, PostgreSQL</p>
   </div>
 </div>
 
@@ -33,21 +35,9 @@ Olá! Eu sou *Lorran, um desenvolvedor focado em **back-end* e na criação de *
 
 ## 💡 Minha Abordagem
 
-- 🤝 *Colaboração*: Aprecio trabalhar em equipe e aprender com diferentes perspectivas.
-- 📖 *Especialização*: Acredito na importância de me aprofundar em áreas específicas para oferecer soluções bem fundamentadas.
-- 🔧 *Desafios Técnicos*: Tenho um olhar criativo para solucionar problemas complexos e inovar nos projetos.
-
----
-
-## 🎮 Além da Programação
-
-Nos meus momentos de lazer, gosto de criar pequenas experiências de jogos e explorar novas mecânicas. Isso me ajuda a exercitar a *criatividade* e a trazer uma nova perspectiva para o desenvolvimento técnico.
-
----
-
-## 🌟 Visão de Futuro
-
-No futuro, almejo compartilhar meu conhecimento ensinando programação a jovens, incentivando o aprendizado no ensino fundamental e médio. *Educar e inspirar* é a chave para o desenvolvimento das novas gerações.
+- 🖼️ **Interface & UX**: Foco em design responsivo, acessibilidade e performance visual.
+- 🏗️ **Arquitetura**: Gosto de organizar projetos de forma escalável, utilizando as melhores práticas de Server Components e Hooks.
+- 🔧 **Full-stack Mindset**: Minha experiência em Back-end me permite otimizar a comunicação entre cliente e servidor com facilidade.
 
 ---
 
@@ -67,30 +57,30 @@ No futuro, almejo compartilhar meu conhecimento ensinando programação a jovens
 
 ## ⚙ Tecnologias e Ferramentas
 
-### Tecnologias Recentes
+### Stack Principal (Front-end)
 
 <div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="https://bun.sh" target="_blank" rel="noreferrer">
-    <img alt="Bun.js" src="https://bun.sh/logo.svg" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
   </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="border-radius: 10px; background: #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
   </a>
-  <a href="https://elysiajs.com/" target="_blank" rel="noreferrer">
-    <img alt="Elysia" src="https://elysiajs.com/assets/elysia.svg" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
   </a>
 </div>
 
-### Outras Tecnologias
+### Ecossistema & Back-end
 
 <div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50" alt="Jest" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <img src="https://bun.sh/logo.svg" width="45" height="45" alt="Bun" title="Bun.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma" title="Prisma ORM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="45" height="45" alt="Docker" title="Docker" />
 </div>
 
 ---
@@ -98,19 +88,16 @@ No futuro, almejo compartilhar meu conhecimento ensinando programação a jovens
 ## 🌐 Vamos Conectar!
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px;">
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));" />
+  <a href="SEU_LINK_AQUI" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" style="filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));" />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.2));" />
+  <a href="SEU_LINK_AQUI" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </div>
 
 ---
 
 <p align="center">
-  <img src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" style="border-radius: 10px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=100&section=footer" width="100%" />
 </p>
